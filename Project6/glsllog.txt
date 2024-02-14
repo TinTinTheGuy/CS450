@@ -1,0 +1,10 @@
+
+ERROR: 0:25: Use of undeclared identifier 'CenterS'
+ERROR: 0:25: Use of undeclared identifier 'RadiusS'
+ERROR: 0:26: Use of undeclared identifier 'CenterT'
+ERROR: 0:26: Use of undeclared identifier 'RadiusT'
+ERROR: 0:30: Use of undeclared identifier 'normalizedDistanceS'
+ERROR: 0:30: Use of undeclared identifier 'normalizedDistanceS'
+ERROR: 0:30: Use of undeclared identifier 'normalizedDistanceT'
+ERROR: 0:30: Use of undeclared identifier 'normalizedDistanceT'
+
